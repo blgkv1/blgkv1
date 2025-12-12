@@ -1,7 +1,7 @@
 ## Hi, I'm Andrii
 
 Software development student at National Technical University «KhPI» <br/>
-Learning React/TS <br/>
+Learning ReactJS/TS <br/>
 I make simple websites to stay consistent <br/>
 Made a whole game using only C libraries <br/>
 
