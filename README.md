@@ -1,4 +1,4 @@
-## Hi, I'm Andrew
+## Hi, I'm Andrii
 
 Software development student at National Technical University «KhPI» <br/>
 Learning React/TS <br/>
