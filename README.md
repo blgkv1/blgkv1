@@ -1,9 +1,9 @@
 ## Hi, I'm Andrii
 
-Learning ReactJS/TS <br/>
-I make simple websites to stay consistent <br/>
-Made a whole game in one week using only C libraries <br/>
 Software development student at National Technical University «KhPI» <br/>
+Made a whole game in one week using only C libraries <br/>
+I make simple websites to stay consistent <br/>
+Learning ReactJS/TS <br/>
 
 
 # Tech Stack:
