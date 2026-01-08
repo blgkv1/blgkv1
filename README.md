@@ -1,6 +1,6 @@
 ## Hi, I'm Andrii
 
-Software development student at National Technical University «KhPI» <br/>
+Software Dev student at National Technical University «KhPI» <br/>
 Made a whole game in one week using only C libraries <br/>
 I make simple websites to stay consistent <br/>
 Learning ReactJS/TS <br/>
