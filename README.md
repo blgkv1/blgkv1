@@ -1,4 +1,4 @@
-## Hi, I'm Andrew
+## Hi, I'm Andrii
 
 Software Dev student at National Technical University «KhPI» <br/>
 Made a whole game in one week using only C libraries <br/>
